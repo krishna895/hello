@@ -1,6 +1,6 @@
 # hello
-<!DOCTYPE html>
 <html>
+	<bgcolor="yellow">
 <head>
 	<meta charset="utf-8">
 	<title>Chaitanya Nikam </title>
